@@ -1,6 +1,6 @@
 # Tesla Standard Automotive USB-C Interface
 
-Similar to LVCS, we are including USB-C in our effort to simplify the manufacturing process and electrical connectivity requirements for all our vehicles. Outlined is the automotive USB-C standard used by our devices and as with LVCS, this standardization unlocks further operational efficiencies, cost reductions and manufacturing automation.
+Similar to LVCS, we are including USB-C in our effort to simplify the manufacturing process and electrical connectivity requirements for all our vehicles. Outlined is the standard automotive USB-C interface used by our devices and as with LVCS, this standardization unlocks further operational efficiencies, cost reductions and manufacturing automation.
 
 <br>
 <br>
